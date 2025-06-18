@@ -40,15 +40,7 @@ export const Sidenav = ({menuset}) => {
            Movies/<br /> TvShows Providers
            </Link>
         </nav>
-        <div className="flex gap-3 text-sm  ">
-          <h1>MADE BY ❤️ HARSH PATEL</h1>
-          <a
-            target="_blank"
-            href="https://www.instagram.com/patelharsh.in/"
-          >
-            <i className=" ri-instagram-fill"></i>
-          </a>
-        </div>
+        
     </div>
   )
 }
